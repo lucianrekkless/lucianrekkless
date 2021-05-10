@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucianrekkless
+- 👋 Hi, I’m @sergheiz
 - 👀 I’m interested in Android apps development
 - 🌱 I’m currently learning JAVA, XML, Firebase
 - 💞️ I’m looking to collaborate on Android apps development projects
